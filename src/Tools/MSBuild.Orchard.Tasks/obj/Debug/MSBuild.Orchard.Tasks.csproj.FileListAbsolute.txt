@@ -1,0 +1,5 @@
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\MSBuild.Orchard.Tasks\bin\Debug\MSBuild.Orchard.Tasks.dll
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\MSBuild.Orchard.Tasks\bin\Debug\MSBuild.Orchard.Tasks.pdb
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.dll
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\MSBuild.Orchard.Tasks\obj\Debug\MSBuild.Orchard.Tasks.pdb

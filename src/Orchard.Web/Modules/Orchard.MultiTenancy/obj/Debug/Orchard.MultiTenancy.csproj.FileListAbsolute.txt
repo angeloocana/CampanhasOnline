@@ -1,0 +1,5 @@
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\Orchard.MultiTenancy.dll
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.MultiTenancy\bin\Orchard.MultiTenancy.pdb
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Debug\Orchard.MultiTenancy.csprojResolveAssemblyReference.cache
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Debug\Orchard.MultiTenancy.dll
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.MultiTenancy\obj\Debug\Orchard.MultiTenancy.pdb

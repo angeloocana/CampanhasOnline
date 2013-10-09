@@ -1,0 +1,6 @@
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\Orchard\bin\Debug\Orchard.exe.config
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\Orchard\bin\Debug\Orchard.exe
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\Orchard\bin\Debug\Orchard.pdb
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\Orchard\obj\Debug\Orchard.csprojResolveAssemblyReference.cache
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\Orchard\obj\Debug\Orchard.exe
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Tools\Orchard\obj\Debug\Orchard.pdb
