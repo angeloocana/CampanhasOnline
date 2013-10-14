@@ -116,9 +116,9 @@
   </Dependency>
   <Dependency>
     <ExtensionId>Orchard.ImportExport</ExtensionId>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/Orchard.ImportExport/bin/Orchard.ImportExport.dll</VirtualPath>
-    <Hash>491303487ff533c9</Hash>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Orchard.ImportExport/Orchard.ImportExport.csproj</VirtualPath>
+    <Hash>b2da1e658b0b340d</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Orchard.Indexing</ExtensionId>
@@ -346,12 +346,18 @@
     <ExtensionId>TotalOnDemand.CampanhasOnline</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/TotalOnDemand.CampanhasOnline/bin/TotalOnDemand.CampanhasOnline.dll</VirtualPath>
-    <Hash>492edb6d63a713d9</Hash>
+    <Hash>492edf9844cdebb0</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Upgrade</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/Upgrade/bin/Upgrade.dll</VirtualPath>
     <Hash>4a4babf8b69a7a4d</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>Webstation.Module.UserImport</ExtensionId>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Webstation.Module.UserImport/Webstation.Module.UserImport.csproj</VirtualPath>
+    <Hash>fcc055677ad9ba9e</Hash>
   </Dependency>
 </Dependencies>
