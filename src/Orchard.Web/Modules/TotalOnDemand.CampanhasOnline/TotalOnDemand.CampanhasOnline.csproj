@@ -70,8 +70,6 @@
     <Content Include="Styles\Web.config" />
     <Content Include="Properties\AssemblyInfo.cs" />
     <Content Include="Module.txt" />
-<Content Include="Views\Parts\Product.cshtml" />
-<Content Include="Views\EditorTemplates\Parts\Product.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\Orchard\Orchard.Framework.csproj">
@@ -84,9 +82,13 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Drivers\AngeloPartDriver.cs" />
     <Compile Include="Drivers\ProductDriver.cs" />
     <Compile Include="Handlers\ProductHandler.cs" />
     <Compile Include="Migrations.cs" />
+    <Compile Include="Models\AngeloPartRecord.cs" />
+    <Compile Include="Models\AngeloPart.cs" />
+    <Compile Include="Models\MPAARating.cs" />
     <Compile Include="Models\Product.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -100,6 +102,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\EditorTemplates\Parts\Product.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\EditorTemplates\Parts\Angelo.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

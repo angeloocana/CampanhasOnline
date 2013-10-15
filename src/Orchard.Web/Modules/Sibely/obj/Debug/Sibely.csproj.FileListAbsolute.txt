@@ -35,6 +35,5 @@ C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Sibely\
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Sibely\bin\NHibernate.SqlAzure.pdb
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Sibely\bin\Iesi.Collections.xml
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Sibely\bin\System.Net.Http.Formatting.xml
-C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Sibely\obj\Debug\Sibely.csprojResolveAssemblyReference.cache
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Sibely\obj\Debug\Sibely.dll
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Sibely\obj\Debug\Sibely.pdb

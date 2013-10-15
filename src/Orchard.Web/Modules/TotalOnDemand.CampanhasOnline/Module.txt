@@ -7,6 +7,6 @@ OrchardVersion: 1.0
 Description: Modulo de teste
 Features:
     TotalOnDemand.CampanhasOnline:
-        Name: Name Teste
-        Description: Description Teste
-        Category: Total On Demand
+        Name: CampanhasOnline
+        Description: CampanhasOnline
+        Category: _Total On Demand

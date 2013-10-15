@@ -37,3 +37,4 @@ C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.ContentPicker\bin\System.Net.Http.Formatting.xml
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.ContentPicker\obj\Debug\Orchard.ContentPicker.dll
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.ContentPicker\obj\Debug\Orchard.ContentPicker.pdb
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.ContentPicker\obj\Debug\Orchard.ContentPicker.csprojResolveAssemblyReference.cache

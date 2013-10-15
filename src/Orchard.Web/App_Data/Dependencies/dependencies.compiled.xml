@@ -116,9 +116,9 @@
   </Dependency>
   <Dependency>
     <ExtensionId>Orchard.ImportExport</ExtensionId>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
-    <VirtualPath>~/Modules/Orchard.ImportExport/Orchard.ImportExport.csproj</VirtualPath>
-    <Hash>b2da1e658b0b340d</Hash>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Orchard.ImportExport/bin/Orchard.ImportExport.dll</VirtualPath>
+    <Hash>491307ff1c59e226</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Orchard.Indexing</ExtensionId>
@@ -346,7 +346,7 @@
     <ExtensionId>TotalOnDemand.CampanhasOnline</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/TotalOnDemand.CampanhasOnline/bin/TotalOnDemand.CampanhasOnline.dll</VirtualPath>
-    <Hash>492edf9844cdebb0</Hash>
+    <Hash>492ee0475e388a09</Hash>
   </Dependency>
   <Dependency>
     <ExtensionId>Upgrade</ExtensionId>

@@ -35,3 +35,4 @@ C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Themes\bin\Iesi
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Themes\bin\System.Net.Http.Formatting.xml
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Themes\obj\Debug\Themes.dll
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Themes\obj\Debug\Themes.pdb
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Themes\obj\Debug\Themes.csprojResolveAssemblyReference.cache

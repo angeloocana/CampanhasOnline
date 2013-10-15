@@ -37,3 +37,4 @@ C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.Users\bin\System.Net.Http.Formatting.xml
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.dll
 C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.pdb
+C:\Users\aocana\Documents\GitHub\CampanhasOnline\src\Orchard.Web\Modules\Orchard.Users\obj\Debug\Orchard.Users.csprojResolveAssemblyReference.cache

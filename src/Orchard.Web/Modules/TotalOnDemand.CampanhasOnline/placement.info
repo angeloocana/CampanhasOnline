@@ -1,4 +1,5 @@
 ﻿<Placement>
     <Place Parts_Product_Edit="Content:3"/>
     <Place Parts_Product="Content:3"/>
+	<Place Parts_Angelo_Edit="Content:10"/>
 </Placement>
